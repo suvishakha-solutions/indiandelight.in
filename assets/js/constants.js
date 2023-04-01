@@ -1,0 +1,1 @@
+const SEND_EMAIL_URL = "https://suvishakha-email-sender.herokuapp.com/email/sendEmail";
